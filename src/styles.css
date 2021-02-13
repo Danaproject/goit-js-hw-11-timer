@@ -1,0 +1,19 @@
+.timer {
+  display: flex;
+  margin: 20px;
+}
+.field {
+  margin: 20px;
+}
+.value {
+  font-family: 'Roboto', sans-serif;
+  display: block;
+  text-align: center;
+  font-size: 60px;
+}
+.label {
+  font-family: 'Roboto', sans-serif;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+}
