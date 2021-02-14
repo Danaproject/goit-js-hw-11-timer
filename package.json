@@ -1,5 +1,5 @@
 {
-  "name": "webpack-starter-kit",
+  "name": "goit-js-hw-11-timer",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
+    "url": "https://github.com/Danaproject/goit-js-hw-11-timer"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Danaproject",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
